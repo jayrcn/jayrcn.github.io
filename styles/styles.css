@@ -906,7 +906,7 @@ section {
     padding-top: 3rem;
   }
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
   .container {
     padding: 7rem 3rem;
   }
