@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+{
+    "files.associations": {
+        "*.ttml": "xml",
+        "*.ttss": "css"
+    }
+=======
+{
+    "files.associations": {
+        "*.ttml": "xml",
+        "*.ttss": "css"
+    }
+>>>>>>> 2b8d80f202ffb9a7c788d3feebb763f33e7688c6
+}
