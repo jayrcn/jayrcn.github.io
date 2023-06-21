@@ -11,4 +11,5 @@ Future Updates:
 <ol>
   <li>Will fix and make updates to the "Download CV Button" later on</li>
   <li>Will fix the contact form sheet next to my inquiries</li>
+  <li>For some displays try zooming out 50% to see it better, it works for most displays!</li>
 </ol>
