@@ -3,8 +3,8 @@
 
 Click the link above to see my website!<br><br>
 
-Bonus Feature:<br>
-For you guys that have a preference for the dark or light theme for the screen,<br> there is a button that switches between both on the top right corner of the screen!!
+<b>Bonus Feature:<br>
+For you guys that have a preference for the dark or light theme for the screen,<br> there is a button that switches between both on the top right corner of the screen!!</b>
 
 
 Future Updates:
